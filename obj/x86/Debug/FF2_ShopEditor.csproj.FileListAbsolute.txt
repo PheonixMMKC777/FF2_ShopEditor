@@ -1,0 +1,11 @@
+C:\Users\evening\source\repos\FF2_ShopEditor\bin\x86\Debug\FF2_ShopEditor.exe.config
+C:\Users\evening\source\repos\FF2_ShopEditor\bin\x86\Debug\FF2_ShopEditor.exe
+C:\Users\evening\source\repos\FF2_ShopEditor\bin\x86\Debug\FF2_ShopEditor.pdb
+C:\Users\evening\source\repos\FF2_ShopEditor\obj\x86\Debug\FF2_ShopEditor.csproj.AssemblyReference.cache
+C:\Users\evening\source\repos\FF2_ShopEditor\obj\x86\Debug\FF2_ShopEditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\evening\source\repos\FF2_ShopEditor\obj\x86\Debug\FF2_ShopEditor.Form1.resources
+C:\Users\evening\source\repos\FF2_ShopEditor\obj\x86\Debug\FF2_ShopEditor.Properties.Resources.resources
+C:\Users\evening\source\repos\FF2_ShopEditor\obj\x86\Debug\FF2_ShopEditor.csproj.GenerateResource.cache
+C:\Users\evening\source\repos\FF2_ShopEditor\obj\x86\Debug\FF2_ShopEditor.csproj.CoreCompileInputs.cache
+C:\Users\evening\source\repos\FF2_ShopEditor\obj\x86\Debug\FF2_ShopEditor.exe
+C:\Users\evening\source\repos\FF2_ShopEditor\obj\x86\Debug\FF2_ShopEditor.pdb
